@@ -66,7 +66,7 @@ Aggregated features from 5 auxiliary tables:
 
 ### 3. Encoding & Splitting
 - One-hot encoding for all categorical variables
-- Stratified 70/15/30 train/dev/test split
+- Stratified 70/10/20 train/dev/test split
 - Sample weights computed to handle class imbalance
 
 ### 4. Models Trained
