@@ -135,6 +135,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Ammar** — AI Student, Jordan University of Science and Technology  
-Course: AI 350 — Data Science  
-Instructor: Dr. Malak Abdullah
+**Ammar** — AI Student, Jordan University of Science and Technology - Third Year 
+
