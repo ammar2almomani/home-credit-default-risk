@@ -30,7 +30,7 @@ The dataset contains **307,511 loan applications** across **7 relational tables*
 ```
 home-credit-default-risk/
 │
-├── AMMAR.ipynb              # Main notebook (full pipeline)
+├── Home-Credit-Default-Risk-Notebook.ipynb              # Main notebook (full pipeline)
 ├── README.md
 └── requirements.txt
 ```
