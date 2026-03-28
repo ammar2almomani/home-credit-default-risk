@@ -135,5 +135,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Ammar** — AI Student, Jordan University of Science and Technology - Third Year 
+**Ammar** — AI Student, Jordan University of Science and Technology 
 
