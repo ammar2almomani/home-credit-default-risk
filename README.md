@@ -130,7 +130,8 @@ pip install -r requirements.txt
 - **No outlier removal**: Tree-based models are robust to outliers; many zero values come from intentional preprocessing.
 - **Sample weights**: Used instead of oversampling to address class imbalance.
 - **Threshold = 0.5**: Default threshold used for all models. In production, a lower threshold may improve recall on the default class.
-
+- **Hyperparameter tuning**: All model hyperparameters were selected 
+  through manual tuning based on validation performance.
 ---
 
 ## Author
